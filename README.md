@@ -8,7 +8,7 @@
 </p>
 
 ## Welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-I am a Senior Software Engineer focused on front end optimization, scalabling data-driven application development, kubernetes management and amazon web services. I have a degree in mathematics and enjoy coding challenges focused on optimal algorithm discovery. Find me on LinkedIn or Spotify.
+I am a Senior Software Engineer focused on front end optimization, scalable data-driven application development, kubernetes management and amazon web services. I have a degree in mathematics and enjoy coding challenges focused on optimal algorithm discovery. I like CSS. Find me on LinkedIn or Spotify.
 
 <!-- Social icons -->
 <p align="center">
