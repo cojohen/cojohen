@@ -7,22 +7,21 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </p>
 
-## Welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-I am a Senior Software Engineer focused on front end optimization, scalable data-driven application development, kubernetes management and amazon web services. I have a degree in mathematics and enjoy coding challenges focused on optimal algorithm discovery. I like CSS. Find me on LinkedIn or Spotify.
+## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
+I am a Senior Software Engineer who loves learning new things. Connect with me on LinkedIn, jam out with me on Spotify.
 
-<!-- Social icons -->
-<p align="center">
-<a href="https://www.linkedin.com/in/joe-cohen-/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
-<a href="https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
-</a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-JoeCohen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-cohen-/)](https://www.linkedin.com/in/joe-cohen-/)
+[![Spotify Badge](https://img.shields.io/badge/-darthBrooks-brightgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)](https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)
 
+## ⚡ Domains:
+- Front end development with Vue.js
+- SCSS/CSS
+- Javascript
+- Propane accessories
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cojohen&show_icons=true&theme=darcula&count_private=true"/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cojohen&show_icons=true&theme=darcula&count_private=true"/>
 </p>
 
