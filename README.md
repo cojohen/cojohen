@@ -19,6 +19,7 @@ I am a Senior Software Engineer who loves learning new things. Connect with me o
 - Javascript
 - Propane accessories
 
+## 🧮 Stats:
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cojohen&show_icons=true&theme=darcula&count_private=true"/>
   <br>
