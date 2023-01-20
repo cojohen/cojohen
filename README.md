@@ -8,21 +8,22 @@
 </p>
 
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-I am a Senior Software Engineer who loves learning new things. Connect with me on LinkedIn, jam out with me on Spotify.
+I am a Senior Software Engineer who loves learning new things. 
+Connect with me on LinkedIn or jam out with me on Spotify.
 
 [![Linkedin Badge](https://img.shields.io/badge/-JoeCohen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-cohen-/)](https://www.linkedin.com/in/joe-cohen-/)
 [![Spotify Badge](https://img.shields.io/badge/-darthBrooks-brightgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)](https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)
 
 ## ⚡ Domains:
-- Front end development with Vue.js
-- SCSS/CSS
-- Javascript
-- Propane accessories
+- Front end development
+- CSS & SCSS
+- Javascript & Vue.js
 
 ## 🧮 Stats:
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cojohen&show_icons=true&theme=darcula&count_private=true"/>
-  <br>
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cojohen&show_icons=true&theme=darcula&count_private=true"/>
 </p>
 
