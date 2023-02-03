@@ -18,7 +18,7 @@ Connect with me on LinkedIn or jam out with me on Spotify.
 - UI/UX
 - Javascript & Vue.js
 - Automation
-- Algorithms
+- Design
 
 ## 🧮 Stats:
 <p align="center">
