@@ -8,7 +8,7 @@
 </p>
 
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-<p>I'm a Senior Software Engineer having a blast with learning, development and design. I board background in technology spanning mathematics, electronics, software engineering and design.</p>
+<p>I'm a Senior Software Engineer having a fun every day learning, developing and designing. I have a broad background in technology spanning the fields of mathematics, electronics, software engineering and design.</p>
 
 
 <p>I love solving problems, writing code, designing solutions and tesing ideas. My ideal day is spend working on software projects, communicating with my team and sipping tea in my home office. Coding is pretty fun :D</p>
