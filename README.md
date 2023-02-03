@@ -8,23 +8,29 @@
 </p>
 
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-I am a Senior Software Engineer who loves learning new things. 
-Connect with me on LinkedIn or jam out with me on Spotify.
+<p>I'm a Senior Software Engineer having a blast with learning, development and design. I board background in technology spanning mathematics, electronics, software engineering and design.</p>
+
+
+<p>I love solving problems, writing code, designing solutions and tesing ideas. My ideal day is spend working on software projects, communicating with my team and sipping tea in my home office. Coding is pretty fun :D</p>
+
+<p>Connect with me on LinkedIn or jam out with me on Spotify.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-JoeCohen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-cohen-/)](https://www.linkedin.com/in/joe-cohen-/)
 [![Spotify Badge](https://img.shields.io/badge/-darthBrooks-brightgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)](https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)
 
 ## ⚡ Domains:
+
 - UI/UX
 - Javascript & Vue.js
 - Automation
 - Design
 
+
 ## 🧮 Stats:
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cojohen&show_icons=true&theme=darcula&count_private=true"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cojohen&show_icons=true&theme=darcula&count_private=true"/>
 </p>
-
