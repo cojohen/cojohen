@@ -15,9 +15,10 @@ Connect with me on LinkedIn or jam out with me on Spotify.
 [![Spotify Badge](https://img.shields.io/badge/-darthBrooks-brightgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)](https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)
 
 ## ⚡ Domains:
-- Front end development
-- CSS & SCSS
+- UI/UX
 - Javascript & Vue.js
+- Automation
+- Algorithms
 
 ## 🧮 Stats:
 <p align="center">
