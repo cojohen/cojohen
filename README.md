@@ -8,11 +8,7 @@
 </p>
 
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-<p>I'm a Senior Software Engineer having a fun every day learning, developing and designing. I have a broad background in technology spanning the fields of mathematics, electronics, software engineering and design.</p>
-
-
-<p>I love solving problems, writing code, designing solutions and tesing ideas. My ideal day is spend working on software projects, communicating with my team and sipping tea in my home office. Coding is pretty fun :D</p>
-
+<p>I'm a software engineer and I like building new things.</p>
 <p>Connect with me on LinkedIn or jam out with me on Spotify.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-JoeCohen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-cohen-/)](https://www.linkedin.com/in/joe-cohen-/)
