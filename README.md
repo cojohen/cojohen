@@ -25,8 +25,8 @@
 ## 🧮 Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cojohen&show_icons=true&theme=darcula&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cojohen&show_icons=true&theme=vision-friendly-dark&count_private=true">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cojohen&show_icons=true&theme=darcula&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cojohen&show_icons=true&theme=vision-friendly-dark&count_private=true">
 </p>
