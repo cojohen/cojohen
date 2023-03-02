@@ -10,7 +10,7 @@
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
 <p>I'm a software engineer and I like building new things.</p>
 <p>Connect with me on LinkedIn or jam out with me on Spotify.</p>
-<p>[Mood](https://www.youtube.com/watch?v=27in81lrf6M)</p>
+<p>https://www.youtube.com/watch?v=27in81lrf6M</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-JoeCohen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-cohen-/)](https://www.linkedin.com/in/joe-cohen-/)
 [![Spotify Badge](https://img.shields.io/badge/-darthBrooks-brightgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)](https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)
