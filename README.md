@@ -18,10 +18,10 @@
 
 ## ⚡ Domains:
 
+- Front End
+- Back End
 - UI/UX
-- Javascript & Vue.js
-- Automation
-- Design
+
 
 
 ## 🧮 Stats:
