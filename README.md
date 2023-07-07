@@ -17,10 +17,8 @@
 
 ## ⚡ Domains:
 
+- Web Applications Development
 - Front End
-- Back End
-- UI/UX
-
 
 
 ## 🧮 Stats:
