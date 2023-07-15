@@ -1,4 +1,5 @@
-![Black Modern Vlogger YouTube Banner (1)](https://user-images.githubusercontent.com/86421012/212552984-c131c666-61a5-4e79-a557-6d42acfdff82.gif)
+
+![s-tsuchiya-SVVKbAy5CDc-unsplash](https://github.com/cojohen/cojohen/assets/86421012/8002edf2-0b85-41b2-91f6-2ae370af445a)
 
 <!-- Technology badges -->
 <p align="center">
