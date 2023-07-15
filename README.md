@@ -19,8 +19,10 @@
 
 ## ⚡ Domains:
 
-- Web Applications Development
+- Applications Development
 - Front End
+- Product Strategy
+- Cryptocurrency
 
 
 ## 🧮 Stats:
