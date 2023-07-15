@@ -1,5 +1,6 @@
 
-![s-tsuchiya-SVVKbAy5CDc-unsplash](https://github.com/cojohen/cojohen/assets/86421012/8002edf2-0b85-41b2-91f6-2ae370af445a)
+![skybanner](https://github.com/cojohen/cojohen/assets/86421012/6cef0703-a449-4021-a004-7ad0204c4f97)
+
 
 <!-- Technology badges -->
 <p align="center">
