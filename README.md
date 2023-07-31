@@ -9,7 +9,7 @@
 </p>
 
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-<p>I'm a software engineer building new things.</p>
+<p>I'm here to chew bubblegum and build things.</p>
 <p>Connect with me on LinkedIn or jam out with me on Spotify.</p>
 
 <br>
