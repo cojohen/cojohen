@@ -9,7 +9,7 @@
 </p>
 
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-<p>I'm here to build and create!</p>
+<p>I'm a software engineer in love with building and creating.</p>
 <p>Connect with me on LinkedIn or jam out with me on Spotify.</p>
 
 <br>
@@ -19,11 +19,9 @@
 
 ## ⚡ Domains:
 
-- Applications Development
-- Front End
-- Product Strategy
+- Web Applications Development
+- Front End Development
 - Cryptocurrency
-
 
 ## 🧮 Stats:
 
@@ -31,5 +29,5 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cojohen&show_icons=true&theme=vision-friendly-dark&count_private=true">
 </p>
 <p align="center">
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=cojohen&show_icons=true&theme=vision-friendly-dark&count_private=true">-->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cojohen&show_icons=true&theme=vision-friendly-dark&count_private=true">
 </p>
