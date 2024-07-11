@@ -20,7 +20,7 @@
 ## ⚡ Domains:
 
 - Web Applications Development
-- Front End Development
+- Front-End (the best end)
 - Cryptocurrency
 
 ## 🧮 Stats:
