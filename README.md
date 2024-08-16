@@ -9,13 +9,26 @@
 </p>
 
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-<p>I'm a software engineer in love with building and creating.</p>
-<p>Connect with me on LinkedIn or jam out with me on Spotify.</p>
+<p>I'm a full-stack hacker specializing in front-end.</p>
+
+<br />
+ <p>I'm pretty ok at: </p>
+   
+- Rapid prototyping
+- Creative problem solving
+- Open-source contributation (Uniswap & Dogecoin)
+
+<br />
+
+<p> My personal heros include Homelander and Franklin Clinton.</p>
+
+
+<p>Connect with me on LinkedIn. Find my Resume on Spotify.</p>
 
 <br>
   
-[![Linkedin Badge](https://img.shields.io/badge/-JoeCohen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-cohen-/)](https://www.linkedin.com/in/joe-cohen-/)
-[![Spotify Badge](https://img.shields.io/badge/-darthBrooks-brightgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)](https://open.spotify.com/user/j88x6y8zb0z9qs7ja16i8q4mb)
+[![Linkedin Badge](https://img.shields.io/badge/My_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-cohen-/)](https://www.linkedin.com/in/joe-cohen-/)
+[![Spotify Badge](https://img.shields.io/badge/My_Spotify_Resume-brightgreen?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/5JTR42HNFbeqFmV3CwWlhd?si=0f0c805255604567)
 
 ## ⚡ Domains:
 
