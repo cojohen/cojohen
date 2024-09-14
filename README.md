@@ -9,18 +9,18 @@
 </p>
 
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-<p>I'm a full-stack hacker specializing in front-end.</p>
+<p>I'm an engineer.</p>
 
 <br />
- <p>I'm pretty ok at: </p>
+ <p>I'm ok at: </p>
    
 - Rapid prototyping
 - Creative problem solving
-- Open-source contributation (Uniswap & Dogecoin)
+- Open-source stuff (Uniswap & Dogecoin)
 
 <br />
 
-<p> My personal heros include Homelander and Franklin Clinton.</p>
+<p> My personal heros include Homelander and Daniel Plainview.</p>
 
 
 <p>Connect with me on LinkedIn. Find my Resume on Spotify.</p>
