@@ -9,27 +9,15 @@
 </p>
 
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-<p>I'm a systems engineer.</p>
+<p>I'm a systems engineer</p>
+<p>I like AI, the internet and data</p>
+<p>My background is in mathematics and systems design</p>
+<p>I'm working in healthcare and AI</p>
+<p>My personal heros include Homelander and Daniel Plainview</p>
+<p>Connect with me on LinkedIn. Find my Resume on Spotify</p>
 
-<br />
- <p>I like AI, the internet and data </p>
-
-<br />
-
-<p>Personal heros include Homelander and Daniel Plainview.</p>
-
-<p>Connect with me on LinkedIn. Find my Resume on Spotify.</p>
-
-<br>
-  
 [![Linkedin Badge](https://img.shields.io/badge/My_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-cohen-/)](https://www.linkedin.com/in/joe-cohen-/)
 [![Spotify Badge](https://img.shields.io/badge/My_Spotify_Resume-brightgreen?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/5JTR42HNFbeqFmV3CwWlhd?si=0f0c805255604567)
-
-## ⚡ Domains:
-
-- Healthcare
-- AI
-- Systems Design
 
 ## 🧮 Stats:
 
