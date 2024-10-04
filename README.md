@@ -9,19 +9,14 @@
 </p>
 
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-<p>I'm an engineer.</p>
+<p>I'm a systems engineer.</p>
 
 <br />
- <p>I'm ok at: </p>
-   
-- Rapid prototyping
-- Creative problem solving
-- Open-source stuff (Uniswap & Dogecoin)
+ <p>I like AI, the internet and data </p>
 
 <br />
 
-<p> My personal heros include Homelander and Daniel Plainview.</p>
-
+<p>Personal heros include Homelander and Daniel Plainview.</p>
 
 <p>Connect with me on LinkedIn. Find my Resume on Spotify.</p>
 
@@ -32,9 +27,9 @@
 
 ## ⚡ Domains:
 
-- Web Applications Development
-- Front-End (the best end)
-- Cryptocurrency
+- Healthcare
+- AI
+- Systems Design
 
 ## 🧮 Stats:
 
