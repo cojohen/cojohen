@@ -8,7 +8,7 @@
 <p>My background is in mathematics and systems design.</p>
 <p>I'm building in healthcare and AI.</p>
 <p>My personal heros include Homelander and Daniel Plainview.</p>
-<p>Connect with me on LinkedIn.</p>
+<p>Connect with me on LinkedIn or find me in the streets.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/My_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-cohen-/)](https://www.linkedin.com/in/joe-cohen-/)
 
