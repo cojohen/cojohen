@@ -3,12 +3,15 @@
 
 
 ## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-<p>I'm a systems engineer</p>
-<p>I like AI, the internet, Bitcoin, UX and data science.</p>
-<p>My background is in mathematics and systems design.</p>
-<p>I'm building in healthcare and AI.</p>
-<p>My personal heros include Homelander and Daniel Plainview.</p>
-<p>Connect with me on LinkedIn or find me in the streets.</p>
+
+<p>Systems engineer. I build machines that survive contact with reality. <br />
+Math core. AI in the wild. Healthcare at scale. Bitcoin since 2010
+</p>
+<p>Where we're going, we don't need roads. <br />
+  The laws of physics were <i>never</i> the limit.</p>
+
+<p><b>Personal heros:</b> Homelander & Daniel Plainview</p>
+<p>Find me on LinkedIn or find me in the streets.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/My_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-cohen-/)](https://www.linkedin.com/in/joe-cohen-/)
 
