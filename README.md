@@ -1,21 +1,50 @@
 
-![skybanner](https://github.com/cojohen/cojohen/assets/86421012/6cef0703-a449-4021-a004-7ad0204c4f97)
+
+<h1 align="center">
+ 
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/7b50bfad-465e-47b3-8aed-fc8ae09723a6" width="500px" >
+
+ <br><br>
+  hi<br><br>
+</h1>
 
 
-## Hello! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
-
-<p>Systems engineer. I build machines that survive contact with reality. <br />
-Math core. AI in the wild. Healthcare at scale. Bitcoin since 2010
+<br /><br/>
+<p align="center">i build self-learning machines
+<br />
 </p>
-<p>Where we're going, we don't need roads. <br />
-  The laws of physics were <i>never</i> the limit.</p>
 
-<p><b>Personal heros:</b> Homelander & Daniel Plainview</p>
-<p>Find me on LinkedIn or find me in the streets.</p>
+
+
+<h1 align="center">
+  <br><br>
+
+<br><br>
+</h1>
+
+
+
+<p align="center">personal heros include</p>
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/2e512b85-ef56-4052-97f4-0eff6e29052f" width="300" >
+  <br> Homelander
+  <br><br>
+  
+  <img src="https://github.com/user-attachments/assets/122bdd28-f1bc-4951-88f7-ce35bdbf26f4" width="300" >
+  <br>Daniel Plainview
+  <br><br>
+  
+  <img src="https://github.com/user-attachments/assets/219f0c1e-bbbe-4345-b1ce-ea2258ae2c9a" width="300" >  
+  <br>Satoshi Nakamoto
+  <br><br>
+</h1>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/My_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-cohen-/)](https://www.linkedin.com/in/joe-cohen-/)
 
-## 🧮 Stats:
+
+<h1 align="center">high scores</h1>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cojohen&show_icons=true&theme=vision-friendly-dark&count_private=true">
