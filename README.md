@@ -11,7 +11,7 @@
 
 
 
-<p align="center">i build self-learning machines
+<p align="center">i'm building a self-learning AI system at Symbol<br /> <br />https://symbolmachines.com
 <br /><br /><br /><br />
 </p>
 
