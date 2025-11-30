@@ -13,6 +13,10 @@
 
 <p align="center">i'm building a self-learning AI system at Symbol<br /> <br />https://symbolmachines.com
 <br /><br /><br /><br />
+
+<p align="center">recognized as the High Priest to Liver King
+ <br /><br />
+ <a align="center" href="https://www.instagram.com/reel/DLPo8eCsQo6/?hl=en" target="_blank"><img align="center" width="300" alt="high priest" src="https://github.com/user-attachments/assets/eabbfbb7-c0cd-4749-8b26-6d11aed22b68" /></a>
 </p>
 
 
